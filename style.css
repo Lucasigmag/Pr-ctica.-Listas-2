@@ -1,0 +1,27 @@
+h1#color{
+ color: blue;
+}
+
+
+ol.numbers{
+    list-style-type: decimal;
+    font-size: large;
+}
+
+h3#blue{
+color: rgb(51, 0, 255); font-family: sans-serif;
+}
+
+p.cursiva{
+    font-style: oblique;
+    font-size: larger;
+}
+
+ol.numbers_2{
+    list-style-type: decimal;
+    font-size: large;
+}
+
+ul{
+    list-style-type: square;
+}
